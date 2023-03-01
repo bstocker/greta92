@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Formulaire de recherche</h1>
-<form action="#" method="GET">
+<form action="recherche1.php" method="GET">
 
 <p>ANNEE ? <SELECT name="annee">
 
