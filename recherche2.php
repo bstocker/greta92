@@ -6,7 +6,6 @@
 <p>ANNEE ? <SELECT name="annee">
 
 <?php
-//Lister le contenu de la table movies
 
 //1° - Connexion à la BDD
 $base = new PDO('mysql:host=localhost; dbname=id20215400_cnamgreta', 'id20215400_boris', '=nq^^=vKz?FRiz7-');
